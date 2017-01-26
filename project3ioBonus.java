@@ -11,7 +11,7 @@ class project3ioBonus{
 	    num = Integer.valueof(b.readline());
 	}
 	catch(Exception p){
-            System.out.println("Unfitted Number!")
+            System.out.println("Invalid Number!")
 			
 	}
 	for(int x=1; x<=num; x++){
