@@ -5,7 +5,7 @@ class project3ioBonus{
 		System.out.println("Hello everyone!");
 		InputStreamReader c = new InputStreamReader(System.in);
 		BufferedReader b = new BufferedReader(c);
-		System.out.println("Enter the desired height of triangle:")
+		System.out.println("Enter the height of triangle:")
 		int num = 0;
 		try{
 			num = Integer.valueof(c.readline());
