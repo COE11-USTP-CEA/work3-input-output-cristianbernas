@@ -8,9 +8,9 @@ class project3ioBonus{
 		System.out.println("Enter the height of triangle:")
 		int num = 0;
 		try{
-			num = Integer.valueof(c.readline());
+			num = Integer.valueof(b.readline());
 		}
-		catch(Exception c){
+		catch(Exception p){
 			System.out.println("Unfitted Number!")
 			
 		}
