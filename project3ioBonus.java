@@ -15,7 +15,7 @@ class project3ioBonus{
 			
 		}
 		for(int x=1; x<=num; x++){
-			for(int y=1; y<=num -(x-1); y++);{
+			for(int y=1; y<num -(x-1); y++);{
 				System.out.print(" ");
 			}
 			for(int z=1; z<=x; z++){
